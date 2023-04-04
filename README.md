@@ -22,8 +22,8 @@
 ## Git Status <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=30 alt="Git"/>
 <div align="center">
   <a href="https://github.com/marcelachristine">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelachristine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelachristine&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelachristine&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelachristine&layout=compact&langs_count=7&theme=apprentice"/>
 </div>
 
 
@@ -32,7 +32,7 @@
   
   ## Me encontre aqui 👇
   <div style="display: inline_block", align="center">
-  <a href = "mailto:marcelachristine.melo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "marcelachristine.melo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcela-christine-4a7b70203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 
