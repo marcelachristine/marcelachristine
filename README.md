@@ -19,7 +19,7 @@
   </div>
   
 
-## Git Status 
+## Git Status <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=30 alt="Git"/>
 
   <div align="center">
   <a href="https://github.com/marcelachristine">
