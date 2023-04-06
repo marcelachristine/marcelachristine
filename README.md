@@ -19,15 +19,15 @@
   </div>
   
 
-## Git Status <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=30 alt="Git"/>
-<div style="display: flex" align="center">
+## Git Status 
+
+  <div align="center">
   <a href="https://github.com/marcelachristine">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelachristine&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelachristine&layout=compact&langs_count=7&theme=apprentice"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelachristine&layout=compact&langs_count=7&theme=apprentice&include"/>
 </div>
 
-
-
+  
 ##
   
   ## Me encontre aqui 👇
